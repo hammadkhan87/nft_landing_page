@@ -1,0 +1,22 @@
+.brand-integration{
+    width: 80%;
+   flex-wrap: wrap;
+   margin: auto ;
+
+}
+
+.logo{
+ display: flex;
+ flex: row;
+ 
+}
+.bi-logos{
+    height: 2   00px;
+    width: 200px;
+}
+.text{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 30px;
+    font-weight: 700;
+}

@@ -1,0 +1,24 @@
+.info-cards{
+    flex-direction: column;
+    padding: 30px;
+    flex-wrap: wrap;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    margin: 30px 0px;
+    cursor: pointer;
+}
+.card-title{
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.card-description{
+    font-size: 18px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+}
