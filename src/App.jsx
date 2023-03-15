@@ -1,5 +1,5 @@
 import React from 'react'
-import "./app.css"
+import "./App.css"
 import Brand from './components/Brandintegration'
 import Footer from './components/Footer'
 import Header from './components/Header'
